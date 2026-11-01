@@ -1,0 +1,6 @@
+# SiteSentry requires Python 3.8+ and has no third-party dependencies.
+# It uses only the Python standard library (argparse, json, socket, ssl, urllib).
+#
+# Add packages below if you extend the tool, for example:
+# requests>=2.31.0
+# jinja2>=3.1.0
