@@ -27,8 +27,8 @@
 
 ```bash
 # 1. Get the code
-git clone https://github.com/<your-username>/sitesentry.git
-cd sitesentry
+git clone https://github.com/dharmpatel1857-cmyk/SiteSentry.git
+cd SiteSentry
 
 # 2. (Optional but recommended) create a virtual environment
 python3 -m venv venv
@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 ```powershell
 # 1. Get the code
-git clone https://github.com/<your-username>/sitesentry.git
-cd sitesentry
+git clone https://github.com/dharmpatel1857-cmyk/SiteSentry.git
+cd SiteSentry
 
 # 2. (Optional but recommended) create a virtual environment
 python -m venv venv
